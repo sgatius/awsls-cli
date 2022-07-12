@@ -1,0 +1,7 @@
+{
+  "name": "discine-generator-jca",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "discine-generator-jca",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

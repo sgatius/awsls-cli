@@ -1,0 +1,10 @@
+{
+  "watch": ["src", "serverless.yml"],
+  "ext": "ts, js, json",
+  "ignore": ["node_modules", "dist", "coverage"],
+  "exec": "yarn slslocal",
+  "restartable": "rs",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
